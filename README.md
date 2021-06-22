@@ -1,6 +1,4 @@
-# CONTACTS
-- VK: https://vk.com/egormoroz
-- DISCORD: Neiton#0189
+This is an ancient abandoned and forgotten project back from June of 2018.
 
 # DEPENDENCIES
 - SFML
